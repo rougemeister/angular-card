@@ -2,6 +2,7 @@
 .main-page {
     font-family: "Open Sans", sans-serif;
     padding: 10px;
+    background: linear-gradient( #fff7f5, white);
 }
 .image-container {
     margin-top: 2em;
@@ -15,15 +16,16 @@ img {
     background-color: #000000;
     color: white;
     display: inline-block;
-    padding: 10px 15px;
+    padding: 8px 15px;
     border-radius: 50px;
+    font-size: 0.8rem;
     font-family: inherit;
     font-weight: 600;
     margin-bottom: 0px;
 }
 
 .brand {
-    color: #DEBDB6;
+    color: #732C2C;
     font-weight: 800;
     font-size: 1.5rem;
     margin: 0.8rem 0 0 0;
@@ -43,6 +45,7 @@ img {
 
 
 .color-title {
+    margin: 10px 0 0 0 ;
     font-weight: 800;
 }
 
@@ -51,7 +54,7 @@ img {
     justify-content: space-between;
 }
 .color-item {
-    width: 70px;
+    width: 65px;
     height: 20px;
     border-radius: 10px;
     margin: 10px 0;

@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+}
+.page-container {
+    display: flex;
+}
+.h-flex {
+    width: 2.2em;
+    height: 2.2em;
+    border: 1px solid #001514;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
