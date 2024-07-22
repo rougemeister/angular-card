@@ -1,0 +1,44 @@
+.footer {
+    border-top: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.action-btn {
+    padding: 15px 25px;
+    background-color: #020887;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 50px;
+}
+.action-btn {
+    font-size: 1rem;
+    font-weight: 800;
+}
+.action-btn svg {
+    fill: white;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.price-title,
+.price {
+    margin: 0;
+    font-family: 'Open sans', sans-serif;
+}
+
+.price {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color:  #1ccaca;
+}
