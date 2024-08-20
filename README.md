@@ -1,1 +1,1 @@
-# angular-card
+# ngrx-counter-app
